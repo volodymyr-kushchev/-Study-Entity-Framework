@@ -1,0 +1,10 @@
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\bin\Debug\ConnectLib2.dll.config
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\bin\Debug\ConnectLib2.dll
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\bin\Debug\ConnectLib2.pdb
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\bin\Debug\EntityFramework.dll
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\bin\Debug\EntityFramework.xml
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\obj\Debug\ConnectLib2.csproj.CoreCompileInputs.cache
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\obj\Debug\ConnectLib2.csproj.CopyComplete
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\obj\Debug\ConnectLib2.dll
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\obj\Debug\ConnectLib2.pdb
+D:\V_S\Visual Studio 2017\Projects\TestViewEpam\ConnectLib2\obj\Debug\ConnectLib2.csprojAssemblyReference.cache
